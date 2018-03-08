@@ -1,0 +1,17 @@
+{
+    "Quotesapp": [
+        {
+            "category": "Neutral",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/awesome.png"
+        },
+       
+        {
+            "category": "Adult",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/awesome.png"
+        },
+        {
+            "category": "Chuck",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/life.png"
+        }
+    ]
+}
